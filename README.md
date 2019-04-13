@@ -12,10 +12,10 @@ Table of Contents
       
 
 ## Deep Learning
-|  Note | Algorithm|
+|  Algorithm | Note|
 | --- | --- |
 
 
 ## Machine Learning
-|  Note | Algorithm|
+| Algorithm | Note|
 | --- | --- |
