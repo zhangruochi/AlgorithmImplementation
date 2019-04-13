@@ -15,6 +15,8 @@ Table of Contents
 |  Algorithm | Note|
 | --- | --- |
 | [RNN](./RNN.ipynb) |    |
+| [GRU](./GRU.ipynb) |    |
+| [LSTM](./LSTM.ipynb)|    |
 
 
 ## Machine Learning
