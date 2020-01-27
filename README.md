@@ -14,8 +14,10 @@ Table of Contents
 ## Deep Learning
 |  Algorithm | Note|
 | --- | --- |
+||
 
 
 ## Machine Learning
 | Algorithm | Note|
 | --- | --- |
+
