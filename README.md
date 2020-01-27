@@ -14,9 +14,6 @@ Table of Contents
 ## Deep Learning
 |  Algorithm | Note|
 | --- | --- |
-| [RNN](./RNN.ipynb) |    |
-| [GRU](./GRU.ipynb) |    |
-| [LSTM](./LSTM.ipynb)|    |
 
 
 ## Machine Learning
