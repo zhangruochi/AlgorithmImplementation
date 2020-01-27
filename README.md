@@ -12,9 +12,10 @@ Table of Contents
       
 
 ## Deep Learning
-|  Algorithm | Note|
-| --- | --- |
-||
+|  Algorithm |
+| --- |
+|[Softmax Regression](./Softmax-Regression.ipynb)|
+|[Multilayer Perceptron](./Multilayer-Perceptron.ipynb)|
 
 
 ## Machine Learning
