@@ -16,6 +16,8 @@ Table of Contents
 | --- |
 |[Softmax Regression](./Softmax-Regression.ipynb)|
 |[Multilayer Perceptron](./Multilayer-Perceptron.ipynb)|
+|[Convolutional-Neural-network](./Convolutional-Neural-network.ipynb)|
+|[LeNet-5](./LeNet-5.ipynb)|
 
 
 ## Machine Learning
