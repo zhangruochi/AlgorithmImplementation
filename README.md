@@ -24,7 +24,7 @@ Table of Contents
 |[DenseNet121](./DenseNet-121.ipynb)|
 |[Network in Network](./Network-in-Network.ipynb)|
 |[Autoencoder](./Autoencoder.ipynb)|
-|[ Convolutional Variational Autoencoder]( Convolutional-Variational-Autoencoder.ipynb)|
+|[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
 
 
 
