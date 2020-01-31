@@ -18,11 +18,14 @@ Table of Contents
 |[Multilayer Perceptron](./Multilayer-Perceptron.ipynb)|
 |[Convolutional Neural network](./Convolutional-Neural-network.ipynb)|
 |[Fully Convolutional](./Fully-Convolutional.ipynb)|
-|[LeNet-5](./LeNet-5.ipynb)|
+|[LeNet5](./LeNet-5.ipynb)|
 |[VGG16](./VGG16.ipynb)|
 |[ResNet50, ResNet34](./ResNet.ipynb)|
-|[DenseNet-121](./DenseNet-121.ipynb)|
+|[DenseNet121](./DenseNet-121.ipynb)|
 |[Network-in-Network](./Network-in-Network.ipynb)|
+|[Autoencoder](./Autoencoder.ipynb)|
+|[ Convolutional Variational Autoencoder]( Convolutional-Variational-Autoencoder.ipynb)|
+
 
 
 ## Machine Learning
