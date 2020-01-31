@@ -25,7 +25,7 @@ Table of Contents
 |[Network in Network](./Network-in-Network.ipynb)|
 |[Autoencoder](./Autoencoder.ipynb)|
 |[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
-
+|[ LSTM ](./LSTM.ipynb)|
 
 
 ## Machine Learning
