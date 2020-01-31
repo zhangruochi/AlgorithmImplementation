@@ -19,6 +19,10 @@ Table of Contents
 |[Convolutional Neural network](./Convolutional-Neural-network.ipynb)|
 |[Fully Convolutional](./Fully-Convolutional.ipynb)|
 |[LeNet-5](./LeNet-5.ipynb)|
+|[VGG16](./VGG16.ipynb)|
+|[ResNet50, ResNet34](./ResNet.ipynb)|
+|[DenseNet-121](./DenseNet-121.ipynb)|
+|[Network-in-Network](./Network-in-Network.ipynb)|
 
 
 ## Machine Learning
