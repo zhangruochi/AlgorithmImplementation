@@ -11,6 +11,10 @@ Table of Contents
       * [Machine Learning](#machine-learning)  
       
 
+## Pipeline
+- [Custom Dataset](Custom-Dataset.ipynb)
+
+
 ## Deep Learning
 |  Algorithm |
 | --- |
@@ -36,3 +40,4 @@ Table of Contents
 
 ## Reference
 - https://github.com/rasbt/deeplearning-models
+- https://pytorch.org
