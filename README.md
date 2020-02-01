@@ -30,7 +30,7 @@ Table of Contents
 |[Autoencoder](./Autoencoder.ipynb)|
 |[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
 |[ LSTM ](./LSTM.ipynb)|
-
+|[ Tensorboard ](./Tensorboard.ipynb)|
 
 ## Machine Learning
 | Algorithm | Note|
