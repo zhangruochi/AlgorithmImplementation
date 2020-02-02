@@ -13,6 +13,7 @@ Table of Contents
 
 ## Pipeline
 - [Custom Dataset](Custom-Dataset.ipynb)
+- [ Tensorboard ](./Tensorboard.ipynb)
 
 
 ## Deep Learning
@@ -30,7 +31,9 @@ Table of Contents
 |[Autoencoder](./Autoencoder.ipynb)|
 |[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
 |[ LSTM ](./LSTM.ipynb)|
-|[ Tensorboard ](./Tensorboard.ipynb)|
+|[ FPN ](./FPN.ipynb)|
+|[ UNet ](./UNet.ipynb)|
+
 
 ## Machine Learning
 | Algorithm | Note|
