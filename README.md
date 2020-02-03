@@ -36,13 +36,14 @@ Table of Contents
 
 
 ## Machine Learning
-| Algorithm | Note|
-| --- | --- |
+| Algorithm |
+| --- |
 
 
 ## Fine Tunining
 |Model|
-|[fine tune on resenet](./resnet_finue_tune.ipynb)|
+| --- |
+|[Fine tuning on resenet](./resnet_finue_tune.ipynb)|
 
 
 
