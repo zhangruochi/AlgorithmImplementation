@@ -40,6 +40,12 @@ Table of Contents
 | --- | --- |
 
 
+## Fine Tunining
+|Model|
+|[fine tune on resenet](./resnet_finue_tune.ipynb)|
+
+
+
 
 ## Reference
 - https://github.com/rasbt/deeplearning-models
