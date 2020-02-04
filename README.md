@@ -16,11 +16,15 @@ Table of Contents
 - [ Tensorboard ](./Tensorboard.ipynb)
 
 
-## Deep Learning
+## Deep Learning Basic
 |  Algorithm |
 | --- |
 |[Softmax Regression](./Softmax-Regression.ipynb)|
 |[Multilayer Perceptron](./Multilayer-Perceptron.ipynb)|
+
+## Computer Vision
+| Algorithm |
+| --- |
 |[Convolutional Neural network](./Convolutional-Neural-network.ipynb)|
 |[Fully Convolutional](./Fully-Convolutional.ipynb)|
 |[LeNet5](./LeNet-5.ipynb)|
@@ -28,22 +32,28 @@ Table of Contents
 |[ResNet50, ResNet34](./ResNet.ipynb)|
 |[DenseNet121](./DenseNet-121.ipynb)|
 |[Network in Network](./Network-in-Network.ipynb)|
-|[Autoencoder](./Autoencoder.ipynb)|
+|[Fine tuning on resenet](./resnet_finue_tune.ipynb)|
 |[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
-|[ LSTM ](./LSTM.ipynb)|
 |[ FPN ](./FPN.ipynb)|
 |[ UNet ](./UNet.ipynb)|
+
+## Autoencoder
+|  Algorithm |
+| --- |
+|[Autoencoder](./Autoencoder.ipynb)|
+
+
+## NLP
+| Algorithm |
+| --- |
+|[ LSTM ](./LSTM.ipynb)|
+
 
 
 ## Machine Learning
 | Algorithm |
 | --- |
 
-
-## Fine Tunining
-|Model|
-| --- |
-|[Fine tuning on resenet](./resnet_finue_tune.ipynb)|
 
 
 
