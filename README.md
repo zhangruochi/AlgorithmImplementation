@@ -33,7 +33,6 @@ Table of Contents
 |[DenseNet121](./DenseNet-121.ipynb)|
 |[Network in Network](./Network-in-Network.ipynb)|
 |[Fine tuning on resenet](./resnet_finue_tune.ipynb)|
-|[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
 |[ FPN ](./FPN.ipynb)|
 |[ UNet ](./UNet.ipynb)|
 
@@ -41,13 +40,21 @@ Table of Contents
 |  Algorithm |
 | --- |
 |[Autoencoder](./Autoencoder.ipynb)|
+|[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
 
+
+## GANs
+|  Algorithm |
+| --- |
+|[GANs](./GANs.ipynb)|
 
 ## NLP
 | Algorithm |
 | --- |
 |[ LSTM ](./LSTM.ipynb)|
 |[NER-BiLSTM](./NER-BiLSTM.ipynb)|
+
+
 
 
 
