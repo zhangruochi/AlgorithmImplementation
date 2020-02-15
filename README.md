@@ -58,10 +58,11 @@ Table of Contents
 
 
 
-##  Tensorflow.JS
+##  Deployment
 |  Projects |
 | --- |
-|[Iris Classifier](./Iris-classifier)|
+|[Train on Browser](./Deployment/Iris-classifier)|
+|[Model Converter from Python to Json](./Deployment/cats-vs-dogs)|
 
 
 ## Machine Learning
