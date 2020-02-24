@@ -32,7 +32,6 @@ Table of Contents
 |[ResNet50, ResNet34](./ResNet.ipynb)|
 |[DenseNet121](./DenseNet-121.ipynb)|
 |[Network in Network](./Network-in-Network.ipynb)|
-|[Fine tuning on resenet](./resnet_finue_tune.ipynb)|
 |[ FPN ](./FPN.ipynb)|
 |[ UNet ](./UNet.ipynb)|
 
@@ -55,7 +54,15 @@ Table of Contents
 |[NER-BiLSTM](./NER-BiLSTM.ipynb)|
 
 
+## Fine Tuning
+| Projects |
+| --- |
+|[Methylation](./Methylation)|
 
+## Transfer Learning
+| Projects |
+| --- |
+|[Moyamoya](./Moyamoya)|
 
 
 ##  Deployment
