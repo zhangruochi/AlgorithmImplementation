@@ -12,8 +12,8 @@ Table of Contents
       
 
 ## Pipeline
-- [Custom Dataset](Custom-Dataset.ipynb)
-- [ Tensorboard ](./Tensorboard.ipynb)
+- [Custom Dataset](./Custom-Dataset.ipynb)
+- [Tensorboard ](./Tensorboard.ipynb)
 
 
 ## Deep Learning Basic
