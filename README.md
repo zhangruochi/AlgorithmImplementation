@@ -13,6 +13,7 @@ Table of Contents
 
 ## Pipeline
 - [Custom Dataset](./Custom-Dataset.ipynb)
+- [TransferLearning, FineTuning](./CIFAR10_TransferLearning_FineTuning.ipynb)
 - [Tensorboard ](./Tensorboard.ipynb)
 
 
