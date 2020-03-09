@@ -35,6 +35,9 @@ Table of Contents
 |[Network in Network](./Network-in-Network.ipynb)|
 |[ FPN ](./FPN.ipynb)|
 |[ UNet ](./UNet.ipynb)|
+|[YOLOv1](./YOLOv1.ipynb)|
+|[YOLOv3](./YOLOv3/YOLOv3.ipynb)|
+
 
 ## Autoencoder
 |  Algorithm |
