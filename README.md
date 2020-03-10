@@ -37,11 +37,15 @@ Table of Contents
 |[ UNet ](./UNet.ipynb)|
 
 ## Object Detection
+| Algorithm |
+| --- |
 |[YOLOv1](./YOLOv1.ipynb)|
 |[YOLOv3](./YOLOv3/YOLOv3.ipynb)|
 
 
 ## Segmentation 
+| Algorithm |
+| --- |
 |[MaskR-CNN](./MaskR-CNN/MaskR-CNN.ipynb)|
 
 
@@ -58,11 +62,17 @@ Table of Contents
 |[GANs](./GANs.ipynb)|
 
 
-## NLP
+## Recurrent Neural Network
 | Algorithm |
 | --- |
 |[ LSTM ](./LSTM.ipynb)|
 |[NER-BiLSTM](./NER-BiLSTM.ipynb)|
+
+
+## Language Model
+| Algorithm |
+| --- |
+|[Transformer-XL](./Transformer-XL.ipynb)|
 
 
 ## Fine Tuning
