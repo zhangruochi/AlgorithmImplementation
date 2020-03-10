@@ -23,7 +23,7 @@ Table of Contents
 |[Softmax Regression](./Softmax-Regression.ipynb)|
 |[Multilayer Perceptron](./Multilayer-Perceptron.ipynb)|
 
-## Computer Vision
+## Convolutional Neural Network
 | Algorithm |
 | --- |
 |[Convolutional Neural network](./Convolutional-Neural-network.ipynb)|
@@ -35,8 +35,14 @@ Table of Contents
 |[Network in Network](./Network-in-Network.ipynb)|
 |[ FPN ](./FPN.ipynb)|
 |[ UNet ](./UNet.ipynb)|
+
+## Object Detection
 |[YOLOv1](./YOLOv1.ipynb)|
 |[YOLOv3](./YOLOv3/YOLOv3.ipynb)|
+
+
+## Segmentation 
+|[MaskR-CNN](./MaskR-CNN/MaskR-CNN.ipynb)|
 
 
 ## Autoencoder
@@ -51,6 +57,7 @@ Table of Contents
 | --- |
 |[GANs](./GANs.ipynb)|
 
+
 ## NLP
 | Algorithm |
 | --- |
@@ -62,6 +69,7 @@ Table of Contents
 | Projects |
 | --- |
 |[Methylation](./Methylation)|
+
 
 ## Transfer Learning
 | Projects |
