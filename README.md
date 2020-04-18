@@ -98,7 +98,6 @@ Table of Contents
 |  Projects |
 | --- |
 |[Train on Browser](./Deployment/Iris-classifier)|
-|[Model Converter from Python to Json](./Deployment/cats-vs-dogs)|
 
 
 ## Machine Learning
