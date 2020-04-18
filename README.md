@@ -34,7 +34,8 @@ Table of Contents
 |[DenseNet121](./DenseNet-121.ipynb)|
 |[Network in Network](./Network-in-Network.ipynb)|
 |[ FPN ](./FPN.ipynb)|
-|[ UNet ](./UNet.ipynb)|
+|[UNet](./UNet.ipynb)|
+|[ ResNetUNet ](./ResNetUNet.ipynb)|
 
 ## Object Detection
 | Algorithm |
