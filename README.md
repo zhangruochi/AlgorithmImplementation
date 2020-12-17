@@ -1,108 +1,107 @@
 # Algorithm Implementation
 
-These are some algorithms I learned and Implemented by myself
+These are some Projects about Machine Learnig and Deep Learning implemented by a kinds of frameworks
 
 
-Table of Contents
-=================
 
-* [Algorithm Implementation](#algorithm-implementation)  
-      * [Deep Learning](#deep-learning)  
-      * [Machine Learning](#machine-learning)  
-      
 
 ## Pipeline
-- [Custom Dataset](./Custom-Dataset.ipynb)
-- [TransferLearning, FineTuning](./CIFAR10_TransferLearning_FineTuning.ipynb)
-- [Tensorboard ](./Tensorboard.ipynb)
+|  Projects |  Framework |
+| --- | --- |
+[PyTorch Custom Dataset](./Pipeline/Custom-Dataset.ipynb)| PyTorch |
+[Tensorboard](./Pipeline/Tensorboard.ipynb)| PyTorch |
+[Transfer Learning for PyTorch ](./Pipeline/PyTorch-TransferLearning.ipynb)| PyTorch |
+[Transfer Learning for TensorFlow](./Pipeline/TensorFlow-Transfer-Learning)| TensorFlow |
+[TensorFlow on Browser](./Pipeline/TF-Browser)| TensorFlow |
+[TensorFlow Data pipeline](./Pipeline/TensorFlow-Data-pipeline.ipynb)| TensorFlow |
+
 
 
 ## Deep Learning Basic
-|  Algorithm |
-| --- |
-|[Softmax Regression](./Softmax-Regression.ipynb)|
-|[Multilayer Perceptron](./Multilayer-Perceptron.ipynb)|
-
-## Convolutional Neural Network
-| Algorithm |
-| --- |
-|[Convolutional Neural network](./Convolutional-Neural-network.ipynb)|
-|[Fully Convolutional](./Fully-Convolutional.ipynb)|
-|[LeNet5](./LeNet-5.ipynb)|
-|[VGG16](./VGG16.ipynb)|
-|[ResNet50, ResNet34](./ResNet.ipynb)|
-|[DenseNet121](./DenseNet-121.ipynb)|
-|[Network in Network](./Network-in-Network.ipynb)|
-|[ FPN ](./FPN.ipynb)|
-|[UNet](./UNet.ipynb)|
-|[ ResNetUNet ](./ResNetUNet.ipynb)|
-
-## Object Detection
-| Algorithm |
-| --- |
-|[YOLOv1](./YOLOv1.ipynb)|
-|[YOLOv3](./YOLOv3/YOLOv3.ipynb)|
+|  Projects |  Framework |
+| --- | --- |
+|[Softmax Regression](./Deep-Learning-Basic/Softmax-Regression.ipynb)| PyTorch |
+|[Multilayer Perceptron](./Deep-Learning-Basic/Multilayer-Perceptron.ipynb)| PyTorch |
 
 
-## Segmentation 
-| Algorithm |
-| --- |
-|[MaskR-CNN](./MaskR-CNN/MaskR-CNN.ipynb)|
+## Fundamental Convolutional Neural Network
+| Projects |  Framework |
+| --- | --- |
+|[Convolutional Neural network](./Fundamental-CNNs/Convolutional-Neural-network.ipynb)| PyTorch |
+|[Fully Convolutional Neural network](./Fundamental-CNNs/Fully-Convolutional-Neural-Network.ipynb)| PyTorch |
+|[LeNet5](./Fundamental-CNNs/LeNet-5.ipynb)| PyTorch |
+|[VGG16](./Fundamental-CNNs/VGG-16.ipynb)| PyTorch |
+|[ResNet50](./Fundamental-CNNs/ResNet-50.ipynb)| PyTorch |
+|[DenseNet121](./Fundamental-CNNs/DenseNet-121.ipynb)| PyTorch |
+|[Network in Network](./Fundamental-CNNs/Network-in-Network.ipynb)| PyTorch |
+|[ FPN ](./Fundamental-CNNs/FPN.ipynb)| PyTorch |
+|[UNet](./Fundamental-CNNs/U-Net.ipynb)| PyTorch |
+|[ ResNetUNet ](./v/ResNet-UNet.ipynb)| PyTorch |
 
 
-## Autoencoder
-|  Algorithm |
-| --- |
-|[Autoencoder](./Autoencoder.ipynb)|
-|[ Convolutional Variational Autoencoder](./Convolutional-Variational-Autoencoder.ipynb)|
+## Computer Vision Models
+| Projects |  Framework |
+| --- | --- |
+|[YOLOv1](./Computer-Vision-Models/YOLO-v1.ipynb)| PyTorch |
+|[YOLOv3](./Computer-Vision-Models/YOLO-v3/YOLOv3.ipynb)| PyTorch |
+|[Mask-RCNN](./Computer-Vision-Models/Mask-RCNN)| PyTorch |
+|[Faster-RCNN](./Computer-Vision-Models/Faster-RCNN)| PyTorch |
+|[Image Classifier for SVHN](./Computer-Vision-Models/Image-Classifier-SVHN.ipynb)| TensorFlow |
+|[Residual Network for Fashion MNIST](./Computer-Vision-Models/Residual-Network-Fashion-MNIST.ipynb)| TensorFlow |
+
+## Auto Encoder
+|  Projects |  Framework |
+| --- | --- |
+|[Autoencoder](./Auto-Encoder/Basic-Auto-Encoder.ipynb)| PyTorch |
+|[ Convolutional Variational Autoencoder](./Auto-Encoder/Convolutional-Variational-Autoencoder.ipynb)| PyTorch |
 
 
 ## GANs
-|  Algorithm |
-| --- |
-|[GANs](./GANs.ipynb)|
+|  Projects |  Framework |
+| --- | --- |
+|[Basic GAN](./GANs/Basic-GAN.ipynb)| PyTorch |
+|[CycleGAN](./GANs/CycleGAN)| PyTorch |
+|[DCGAN](./GANs/DCGAN)| PyTorch |
+|[pix2pix](./GANs/pix2pix)| PyTorch |
+|[WGAN](./GANs/WGAN)| PyTorch |
+|[SNGAN](./GANs/SNGAN.ipynb)| PyTorch |
+|[StyleGAN](./GANs/StyleGAN)| PyTorch |
+|[GAN for Hand Written Images](./GANs/GAN-Hand-Written-Images)| PyTorch |
+|[GAN for Data Augmentation](./GANs/GAN-Data-Augmentation)| PyTorch |
+|[GAN Bias](./GANs/GAN-Bias)| PyTorch |
 
 
-## Recurrent Neural Network
-| Algorithm |
-| --- |
-|[ LSTM ](./LSTM.ipynb)|
-|[NER-BiLSTM](./NER-BiLSTM.ipynb)|
+## Fundamental Recurrent Neural Network
+| Projects |  Framework |
+| --- | --- |
+|[ LSTM ](./Fundamental-Recurrent-Neural-Network/LSTM.ipynb)| PyTorch |
 
 
-## Language Model
-| Algorithm |
-| --- |
-|[Transformer-XL](./Transformer-XL.ipynb)|
+## Nautral Language Processing Models
+| Projects |  Framework |
+| --- | --- |
+|[NER-BiLSTM](./Natural-Language-Processing-Models/NER-BiLSTM.ipynb)| PyTorch |
+|[Transformer-XL](./Natural-Language-Processing-Models/Transformer-XL.ipynb)| PyTorch |
+|[Language Model for Shakespeare](./Natural-Language-Processing-Models/Language-Model-Shakespeare.ipynb)| TensorFlow |
+|[Neural Translation Model](./Natural-Language-Processing-Models/Neural-Translation-Model.ipynb)| TensorFlow |
 
 
-## Fine Tuning
-| Projects |
-| --- |
-|[Methylation](./Methylation)|
+## Graph Neural Network
+| Projects |  Framework |
+| --- | --- |
 
-
-## Transfer Learning
-| Projects |
-| --- |
-|[Moyamoya](./Moyamoya)|
 
 
 ## Lifelong Learning
-|Algorithm|
-| --- |
-|[LifeLong-Learning](./LifeLong-Learning.ipynb)|
+|Projects|  Framework |
+| --- | --- |
+|[LifeLong-Learning](./LifeLong-Learning/Basic-LifeLong-Learning.ipynb)| PyTorch |
 
-
-##  Deployment
-|  Projects |
-| --- |
-|[Train on Browser](./Deployment/Iris-classifier)|
 
 
 ## Machine Learning
-| Algorithm |
-| --- |
+| Projects |  Framework |
+| --- | --- |
 
 
 
@@ -110,4 +109,4 @@ Table of Contents
 
 ## Reference
 - https://github.com/rasbt/deeplearning-models
-- https://pytorch.org
+- https://PyTorch.org
