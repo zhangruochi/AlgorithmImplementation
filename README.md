@@ -80,7 +80,9 @@ These are some Projects about Machine Learnig and Deep Learning implemented by a
 ## Nautral Language Processing Models
 | Projects |  Framework |
 | --- | --- |
-|[NER-BiLSTM](./Natural-Language-Processing-Models/NER-BiLSTM.ipynb)| PyTorch |
+|[BiLSTM for NER](./Natural-Language-Processing-Models/PoSTagging-Bert.ipynb)| PyTorch |
+|[BiLSTM for PoS Tagging](./Natural-Language-Processing-Models/PoSTagging-Bert.ipynb)| PyTorch |
+|[Bert for PoS Tagging](./Natural-Language-Processing-Models/NER-BiLSTM.ipynb)| PyTorch |
 |[Transformer-XL](./Natural-Language-Processing-Models/Transformer-XL.ipynb)| PyTorch |
 |[Language Model for Shakespeare](./Natural-Language-Processing-Models/Language-Model-Shakespeare.ipynb)| TensorFlow |
 |[Neural Translation Model](./Natural-Language-Processing-Models/Neural-Translation-Model.ipynb)| TensorFlow |
