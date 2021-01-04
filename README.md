@@ -91,6 +91,9 @@ These are some Projects about Machine Learnig and Deep Learning implemented by a
 ## Graph Neural Network
 | Projects |  Framework |
 | --- | --- |
+|[KDD20 Tutorial](./Graph-Neural-Network/KDD20-Tutorial)| PyTorch |
+
+
 
 
 
@@ -99,6 +102,11 @@ These are some Projects about Machine Learnig and Deep Learning implemented by a
 | --- | --- |
 |[LifeLong-Learning](./LifeLong-Learning/Basic-LifeLong-Learning.ipynb)| PyTorch |
 
+
+## Projects for Fun
+| Projects |  Framework |
+| --- | --- |
+|[Image Captioning](./Projects4Fun/Image-Captioning)| PyTorch |
 
 
 ## Machine Learning
